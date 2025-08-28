@@ -1,0 +1,30 @@
+# Welcome and Overview
+## Session 1 - 7/24/2025 {.unnumbered .unlisted}
+
+## Overview {.unnumbered}
+
+Participants will review the migration cohort timeline and understand the key milestones ahead. They will establish a shared grounding and data practice philosophy to guide decisions and ensure consistency. By the end, all participants will articulate their commitment and clearly define the expected outcomes of the CRM migration.
+
+## Pre-Reading {.unnumbered}
+
+- [Cohort Overview](index.qmd)
+- [Cohort Timeline](timeline.qmd)
+- [Pathways to Power Toolkit (Section: Introduction)](https://waytowin.docsend.com/view/qvf4rmgqb5p42qme#){.external target="_blank"}
+- [Action Builder Demo](https://www.youtube.com/watch?v=83YwGmP486c){.external target="_blank"}
+- [Action Network Demo](https://www.youtube.com/watch?v=ALatfAjoYwA){.external target="_blank"}
+
+## Recording {.unnumbered}
+
+{{< video https://www.youtube.com/embed/-3wexSusOBk >}}
+
+## Slides {.unnumbered}
+
+<iframe src="https://docs.google.com/presentation/d/1vpw21T9KXEDe02PloMx5P_w5yA2JgCgM2pNTMSKM1hY/embed#slide=id.g317fdab4a59_0_26" width="100%" height="480" allow="autoplay">
+
+</iframe>
+
+If you would like to make a copy you can find the slides [here](https://docs.google.com/presentation/d/1vpw21T9KXEDe02PloMx5P_w5yA2JgCgM2pNTMSKM1hY){.external target="_blank"}
+
+## Takeaway {.unnumbered}
+
+There are no takeaway materials for this session

@@ -1,16 +1,152 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Measuring Power & Building Impacts Cohort",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Measuring Power & Building Impacts Cohort\nContext: People’s Action Institute has been engaging in a long term project partnering with The Movement Cooperative and working through the PAI power building team to build definitions, metrics and best practices. Additionally, we are working to meet the moment around the need for CRM migrations as the current available tools become less viable for our organizations.\nGiven the viability of available tools, and their ability to meet our power building needs, this cohort is ideally about the work of cleaning data and preparing for migration from current systems/CRMS to ActionNetwork/ActionBuilder & fundraising platform of the institution’s choice.\nPurpose & Expectation: This is a working space that will function as a working group that will utilize a training of trainers format for many of the sessions, in order to prepare participants to bring the content and work back to their organization each month.\nThis cohort will only be as useful and successful as your ability to commit to the work in between sessions. These sessions will also build on each other, in order to be ready to move the process of migration it is necessary that cohort members commit to attending every session and that organizations have two participants, one data staff and an organizing director or lead organizer who can drive the process on power building culture and rigor.\nOrganizational Outcomes:\n\nOrganizations will have interrogated and evaluated their culture of data tracking and maintenance and the impact that culture and practice has on their power building.\nOrganizations will use this assessment to make shifts in culture and protocol for tracking power building.\nOrganizations will have worked a process to clean up current systems and data to prepare for migration, or to implement better practices in current database\nOrganizations will have the data, tools and organizational culture shifts in place to finalize migration and/or the ability to track power building impact more effectively in current systems at the end of this cohort",
+    "crumbs": [
+      "Measuring Power & Building Impacts Cohort"
+    ]
+  },
+  {
+    "objectID": "timeline.html",
+    "href": "timeline.html",
+    "title": "Timeline",
+    "section": "",
+    "text": "Month\nTopic & Summary\n\n\n\n\nJuly\nWelcome and Overview\nParticipants will review the migration cohort timeline and understand the key milestones ahead. They will establish a shared grounding and data practice philosophy to guide decisions and ensure consistency. By the end, all participants will articulate their commitment and clearly define the expected outcomes of the CRM migration.\n\n\nAugust\nWhat are your current data practices and setup?\nParticipants will be provided a facilitator’s guide to document existing tools, culture, and infrastructure at their own organization.\nThey will evaluate if current practices set them up for success in the CRM migration.\nUsing the guide, each team will map their DARCIs to clarify roles and capacity for data management at their respective organization.\n\n\nSeptember\nWhat is useful to track?\nParticipants will review the leadership ladder workbook to identify common events, roles, matching criteria, thresholds, visualize results, and reflect on next questions to be taken back to their organization.\nThey will learn why maintaining data freshness matters more than collecting stale data and why not everything belongs in the CRM.\nBy the end, each team will prioritize 5–10 key metrics that align with their ladder of engagement.\n\n\nOctober\nBest practices and institutionalizing data practices\nParticipants will explore cultural events—Data entry parties, weekly leaderboards, and more—to embed data in everyday routines.\nThey will map data tasks into manager–managee workflows and design standard processes that feed the CRM.\nBy session end, teams will implement rigorous data practices to empower the organization and sustain a data-driven culture.\n\n\nNovember\nData and access - who has it and how to define access\nParticipants will answer key questions about database administrators, power users, member leader access, and existing bottlenecks.\nThey will pinpoint unnecessary control points and recommend adjustments to streamline permissions.\nBy session end, each team will have a clear data access framework that ensures secure, efficient workflows.\n\n\nDecember - No Meeting\n\n\nJanuary\nChange management: Preparing your organization for the migration\nParticipants will outline stakeholder communication plans, training schedules, and adoption strategies to secure buy-in.\nThey will identify change champions, map resistance points, and assign support roles.\nBy the end, teams will present a draft change management plan with clear milestones, responsibilities, and success metrics.\n\n\nFebruary\n-\nApril\nData Cleanup Session One, Two, and Three\nParticipants will use insights from earlier modules to audit and cleanse key datasets—deciding what to keep, archive, or compress based on freshness.\nThey will tackle tags, survey responses, people records, donations, events, addresses, duplicates, inactive records, opt-outs, and leadership ladder data.\nBy the end, each team will deliver a prioritized, cleaned dataset complete with documented archiving rules and quality controls.\n\n\nMay\nIntegrating the People’s Action leadership ladder framework\nParticipants will study the leadership ladder framework from People’s Action and The Movement Cooperative.\nThey will define automated rules that advance records as engagement thresholds are met.\nBy session end, teams will deploy a configured ladder system to benchmark the organizing revival and generate network-wide insights\n\n\nJune\nMigration Contractor Preparations\nParticipants will take all of the materials built out during the cohort and compile it into one document that will be handed off to the migration contractor.\n\n\nJuly\nMigrations Happening - Onboarding Admins\nParticipants will learn the structured admin onboarding process, covering the CRM structure, user roles, and governance policies.\nThey will practice configuring admin accounts, assigning permissions, and customizing dashboards according to organizational standards.\nThey will develop training materials and support protocols to ensure new admins can effectively manage and maintain the CRM.\n\n\nAugust\nMigrations Happening - Onboarding Staff Users and Member Leaders\nParticipants will learn to define user personas for staff and member leaders, mapping their CRM access levels and workflows.\nThey will practice setting up accounts, permissions, and customized dashboards to meet each role’s needs.\nThey will review tailored onboarding guides, training sessions, and support materials to drive adoption and proficiency\n\n\n🎉 Cohort Completed 🎉\n\n\nSeptember\n-\nDecember\nBi-Weekly Office Hours for Admins and Users",
+    "crumbs": [
+      "Timeline"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "People’s Action Institute Leadership Ladder Framework\nPathways to Power Toolkit\nPathways to Power Implementation Toolkit for Base Building and Leadership Development\nData Map Visualization for Basebuilding and Leadership Development Metrics\nTech Stack Mapping\nLeadership Ladder of Engagement Workbook\nMBC 2024: Organizing Revival Metrics & Tracking Our Power Building",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "welcome_and_overview.html",
+    "href": "welcome_and_overview.html",
+    "title": "1  Welcome and Overview",
+    "section": "",
+    "text": "Session 1 - 7/24/2025",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "welcome_and_overview.html#overview",
+    "href": "welcome_and_overview.html#overview",
+    "title": "1  Welcome and Overview",
+    "section": "Overview",
+    "text": "Overview\nParticipants will review the migration cohort timeline and understand the key milestones ahead. They will establish a shared grounding and data practice philosophy to guide decisions and ensure consistency. By the end, all participants will articulate their commitment and clearly define the expected outcomes of the CRM migration.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "welcome_and_overview.html#pre-reading",
+    "href": "welcome_and_overview.html#pre-reading",
+    "title": "1  Welcome and Overview",
+    "section": "Pre-Reading",
+    "text": "Pre-Reading\n\nCohort Overview\nCohort Timeline\nPathways to Power Toolkit (Section: Introduction)\nAction Builder Demo\nAction Network Demo",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "welcome_and_overview.html#recording",
+    "href": "welcome_and_overview.html#recording",
+    "title": "1  Welcome and Overview",
+    "section": "Recording",
+    "text": "Recording",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "welcome_and_overview.html#slides",
+    "href": "welcome_and_overview.html#slides",
+    "title": "1  Welcome and Overview",
+    "section": "Slides",
+    "text": "Slides\n\n\nIf you would like to make a copy you can find the slides here",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "welcome_and_overview.html#takeaway",
+    "href": "welcome_and_overview.html#takeaway",
+    "title": "1  Welcome and Overview",
+    "section": "Takeaway",
+    "text": "Takeaway\nThere are no takeaway materials for this session",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "current_data_practices.html",
+    "href": "current_data_practices.html",
+    "title": "2  What are your current data practices and setup?",
+    "section": "",
+    "text": "Session 2 - 8/28/2025",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What are your current data practices and setup?</span>"
+    ]
+  },
+  {
+    "objectID": "current_data_practices.html#overview",
+    "href": "current_data_practices.html#overview",
+    "title": "2  What are your current data practices and setup?",
+    "section": "Overview",
+    "text": "Overview\nParticipants will be provided a facilitator’s guide to document existing tools, culture, and infrastructure at their own organization. They will evaluate if current practices set them up for success in the CRM migration. Using the guide, each team will map their DARCIs to clarify roles and capacity for data management at their respective organization.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What are your current data practices and setup?</span>"
+    ]
+  },
+  {
+    "objectID": "current_data_practices.html#pre-reading",
+    "href": "current_data_practices.html#pre-reading",
+    "title": "2  What are your current data practices and setup?",
+    "section": "Pre-Reading",
+    "text": "Pre-Reading\n\nRequired\n\nSketching the Blueprint of Your Data Infrastructure of the Pathways to Power: Implementing Metrics for Base Building and Leadership Development Toolkit\n\n\n\nOptional\n\nHow to Build a Marketing Technology (Martech) Stack That’ll Grow With You\n4 Key Reasons to Build a Data Culture",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What are your current data practices and setup?</span>"
+    ]
+  },
+  {
+    "objectID": "current_data_practices.html#recording",
+    "href": "current_data_practices.html#recording",
+    "title": "2  What are your current data practices and setup?",
+    "section": "Recording",
+    "text": "Recording",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What are your current data practices and setup?</span>"
+    ]
+  },
+  {
+    "objectID": "current_data_practices.html#slides",
+    "href": "current_data_practices.html#slides",
+    "title": "2  What are your current data practices and setup?",
+    "section": "Slides",
+    "text": "Slides\n\n\nIf you would like to make a copy you can find the slides here",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What are your current data practices and setup?</span>"
+    ]
+  },
+  {
+    "objectID": "current_data_practices.html#takeaway",
+    "href": "current_data_practices.html#takeaway",
+    "title": "2  What are your current data practices and setup?",
+    "section": "Takeaway",
+    "text": "Takeaway\n\nSteps 1, 2a and 2b of the Data Map Visualization for Basebuilding and Leadership Development Metrics\nTech Stack Mapping\nSurvey of the tools:\n\nHave your staff take a survey of all the tools that have been identified\nHave them self identify the role that they use the tool from:\n\nOrganizers / Staff\nLeaders\nManagers\nAdmin\n\nThen have people answer the following questions (for each tool):\n\nOn a scale of 1 to 10, 1 being never heard of it, 10 being that you use it all the time; How familiar are you with this tool?\nOn a scale of 1 to 10, 1 being not useful at all, 10 being extremely useful; How useful is this tool to your workflow?\nDo you use an alternative tool instead of this tool for the purpose it provides? If so, what is that tool, and why do you use it?\n\n\nDiscussion with organizers about tool usage:\n\nWe recommend this being a separate call so that the conversations are able to have the time they need for solid discussion.\nQuestions:\n\nWhat are your current practices around data entry and measuring power/leadership development? What is hard about tracking and measuring your base? How is the organizing culture of the organization set up to support this rigor? How might it not be?\nAre you tracking your base in your database or at least on paper? What metrics or data points are you tracking about leadership? Are you propositioning people in powerful ways? Are you doing many 1:1s? And are you tracking this data somewhere? Are you tracking too much or too little?\nWhat is your current user rate for your tool stack and culture of practice to use these tools?\n\nWhat currently does and does not work with your current tool stack?\nWhat is the level of usage of the tools for your base building/organizing?\nWhat is getting in the way? (time, training, accountability etc)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What are your current data practices and setup?</span>"
+    ]
   }
 ]

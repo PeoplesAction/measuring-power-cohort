@@ -1,0 +1,219 @@
+# Timeline {.unnumbered}
+
+
+```{=html}
+<table>
+  <colgroup>
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 80%;">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>Topic & Summary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        July
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Welcome and Overview</span>
+      </p>
+      <p>
+        Participants will review the migration cohort timeline and understand the key milestones ahead. They will establish a shared grounding and data practice philosophy to guide decisions and ensure consistency. By the end, all participants will articulate their commitment and clearly define the expected outcomes of the CRM migration.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        August
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">What are your current data practices and setup?</span>
+      </p>
+      <p>
+        Participants will be provided a facilitator’s guide to document existing tools, culture, and infrastructure at their own organization. 
+        <br>
+        They will evaluate if current practices set them up for success in the CRM migration.
+        <br>
+        Using the guide, each team will map their DARCIs to clarify roles and capacity for data management at their respective organization.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        September
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">What is useful to track?</span>
+      </p>
+      <p>
+        Participants will review the leadership ladder workbook to identify common events, roles, matching criteria, thresholds, visualize results, and reflect on next questions to be taken back to their organization. 
+        <br>
+        They will learn why maintaining data freshness matters more than collecting stale data and why not everything belongs in the CRM.
+        <br>
+        By the end, each team will prioritize 5–10 key metrics that align with their ladder of engagement.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        October
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Best practices and institutionalizing data practices</span>
+      </p>
+      <p>
+        Participants will explore cultural events—Data entry parties, weekly leaderboards, and more—to embed data in everyday routines.
+        <br>
+        They will map data tasks into manager–managee workflows and design standard processes that feed the CRM.
+        <br>
+        By session end, teams will implement rigorous data practices to empower the organization and sustain a data-driven culture.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        November
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Data and access - who has it and how to define access</span>
+      </p>
+      <p>
+        Participants will answer key questions about database administrators, power users, member leader access, and existing bottlenecks.
+        <br>
+        They will pinpoint unnecessary control points and recommend adjustments to streamline permissions.
+        <br>
+        By session end, each team will have a clear data access framework that ensures secure, efficient workflows.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align: center;">
+        <span style="font-weight:bold">December - No Meeting</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        January
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Change management: Preparing your organization for the migration</span>
+      </p>
+      <p>
+        Participants will outline stakeholder communication plans, training schedules, and adoption strategies to secure buy-in.
+        <br>
+        They will identify change champions, map resistance points, and assign support roles.
+        <br>
+        By the end, teams will present a draft change management plan with clear milestones, responsibilities, and success metrics.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        February <br>-<br> April
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Data Cleanup Session One, Two, and Three</span>
+      </p>
+      <p>
+        Participants will use insights from earlier modules to audit and cleanse key datasets—deciding what to keep, archive, or compress based on freshness.
+        <br>
+        They will tackle tags, survey responses, people records, donations, events, addresses, duplicates, inactive records, opt-outs, and leadership ladder data.
+        <br>
+        By the end, each team will deliver a prioritized, cleaned dataset complete with documented archiving rules and quality controls.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        May
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Integrating the People’s Action leadership ladder framework</span>
+      </p>
+      <p>
+        Participants will study the leadership ladder framework from People’s Action and The Movement Cooperative.
+        <br>
+        They will define automated rules that advance records as engagement thresholds are met.
+        <br>
+        By session end, teams will deploy a configured ladder system to benchmark the organizing revival and generate network-wide insights
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        June
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Migration Contractor Preparations</span>
+      </p>
+      <p>
+        Participants will take all of the materials built out during the cohort and compile it into one document that will be handed off to the migration contractor. 
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        July
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Migrations Happening - Onboarding Admins</span>
+      </p>
+      <p>
+        Participants will learn the structured admin onboarding process, covering the CRM structure, user roles, and governance policies.
+        <br>
+        They will practice configuring admin accounts, assigning permissions, and customizing dashboards according to organizational standards.
+        <br>
+        They will develop training materials and support protocols to ensure new admins can effectively manage and maintain the CRM.
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        August
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Migrations Happening - Onboarding Staff Users and Member Leaders</span>
+      </p>
+      <p>
+        Participants will learn to define user personas for staff and member leaders, mapping their CRM access levels and workflows.
+        <br>
+        They will practice setting up accounts, permissions, and customized dashboards to meet each role’s needs.
+        <br>
+        They will review tailored onboarding guides, training sessions, and support materials to drive adoption and proficiency
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align: center;">
+        <span style="font-weight:bold">🎉 Cohort Completed 🎉</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        September<br> - <br>December
+      </td>
+      <td>
+      <p>
+        <span style="font-weight:bold">Bi-Weekly Office Hours for Admins and Users</span>
+      </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+```

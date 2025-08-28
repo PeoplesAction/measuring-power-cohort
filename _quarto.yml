@@ -1,14 +1,19 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
+book:
   title: "Measuring Power & Building Impacts Cohort"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  subtitle: "A Cohort to Strengthen Data & Infrastructure for Power Building and Leadership Development in the People's Action network"
+  author: "Viswa Challa & Amanda Weaver"
+  cover-image: images/peoples-action-bus-home.webp
+  date: "7/01/2025"
+  chapters:
+    - index.qmd
+    - timeline.qmd
+    - resources.qmd
+    - welcome_and_overview.qmd
+    - current_data_practices.qmd
 
 format:
   html:
@@ -16,7 +21,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    # toc: true
 
 
 

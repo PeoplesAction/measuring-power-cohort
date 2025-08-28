@@ -1,7 +1,16 @@
----
-title: "Measuring Power & Building Impacts Cohort"
----
+# Measuring Power & Building Impacts Cohort {.unnumbered}
 
-Hello World, this is to re-render to github pages.
+**Context:** People’s Action Institute has been engaging in a long term project partnering with The Movement Cooperative and working through the PAI power building team to build definitions, metrics and best practices. Additionally, we are working to meet the moment around the need for CRM migrations as the current available tools become less viable for our organizations.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Given the viability of available tools, and their ability to meet our power building needs, this cohort is ideally about the work of cleaning data and preparing for migration from current systems/CRMS to ActionNetwork/ActionBuilder & fundraising platform of the institution's choice. 
+
+**Purpose & Expectation:** This is a working space that will function as a working group that will utilize a training of trainers format for many of the sessions, in order to prepare participants to bring the content and work back to their  organization each month. 
+
+This cohort will only be as useful and successful as your ability to commit to the work in between sessions. These sessions will also build on each other, in order to be ready to move the process of migration it is necessary that cohort members commit to attending every session and that organizations have two participants, one data staff and an organizing director or lead organizer who can drive the process on power building culture and rigor.  
+
+**Organizational Outcomes:**
+
+* Organizations will have interrogated and evaluated their culture of data tracking and maintenance and the impact that culture and practice has on their power building. 
+* Organizations will use this assessment to make shifts in culture and protocol for tracking power building.
+* Organizations will have worked a process to clean up current systems and data to prepare for migration, or to implement better practices in current database
+* Organizations will have the data, tools and organizational culture shifts in place to finalize migration and/or the ability to track power building impact more effectively in current systems at the end of this cohort

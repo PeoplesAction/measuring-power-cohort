@@ -18,6 +18,8 @@ Using the guide, each team will map their DARCIs to clarify roles and capacity f
 
 ## Recording {.unnumbered}
 
+{{< video https://www.youtube.com/embed/vUpU9PVkp2I >}}
+
 ## Slides {.unnumbered}
 
 <iframe src="https://docs.google.com/presentation/d/1Fnw635x2F5kvADeI-H1BCaNg4NmVrm8JLU2vEPz0tJQ/embed#slide=id.g317fdab4a59_0_26" width="100%" height="480" allow="autoplay">

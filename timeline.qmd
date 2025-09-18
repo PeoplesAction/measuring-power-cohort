@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td>
-        September
+        October
       </td>
       <td>
       <p>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td>
-        October
+        November
       </td>
       <td>
       <p>

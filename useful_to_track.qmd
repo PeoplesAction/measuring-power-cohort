@@ -1,0 +1,57 @@
+# What is useful to track?
+## Session 3 - 10/23/2025 {.unnumbered .unlisted}
+
+## Overview {.unnumbered}
+
+Participants will review the leadership ladder workbook to identify common events, roles, matching criteria, thresholds, visualize results, and reflect on next questions to be taken back to their organization.
+They will learn why maintaining data freshness matters more than collecting stale data and why not everything belongs in the CRM.
+By the end, each team will prioritize 5–10 key metrics that align with their ladder of engagement.
+
+## Pre-Reading {.unnumbered}
+
+### Required {.unnumbered}
+- [Pathways to Power Toolkit Page 32 - Recommendations for Organizers and Organizations](https://waytowin.docsend.com/view/qvf4rmgqb5p42qme#){.external target="_blank"}
+
+### Optional {.unnumbered}
+- [The Triple Constraints of Project Management](https://www.coursera.org/articles/triple-constraints-of-project-management){.external target="_blank"}
+
+## Recording {.unnumbered}
+
+<!-- This video needs to be changed -->
+{{< video https://www.youtube.com/embed/Y1c5FgaUsZo >}}
+
+## Slides {.unnumbered}
+
+<iframe src="https://docs.google.com/presentation/d/1bQYASqMArqT-5ugOrYPn1R3hibfJMMKDemhzHqO4Iy0/embed#slide=id.g317fdab4a59_0_26" width="100%" height="480" allow="autoplay">
+</iframe>
+
+If you would like to make a copy you can find the slides [here](https://docs.google.com/presentation/d/1bQYASqMArqT-5ugOrYPn1R3hibfJMMKDemhzHqO4Iy0){.external target="_blank"}
+
+## Takeaway {.unnumbered}
+
+* Steps 1, 2a and 2b of the [Data Map Visualization for Basebuilding and Leadership Development Metrics](https://www.canva.com/design/DAGOguXd_S4/lkyv0tTpoQxJYQ-ngplm9A/edit){.external target="_blank"}
+* [Tech Stack Mapping](https://www.canva.com/design/DAGxWitsSiQ/z2GITCy5OGNM9rgG8GfzhQ/edit?utm_content=DAGxWitsSiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton){.external target="_blank"}
+* Survey of the tools:
+  + Have your staff take a survey of all the tools that have been identified
+  + Have them self identify the role that they use the tool from:
+    - Organizers / Staff
+    - Leaders
+    - Managers
+    - Admin
+  + Then have people answer the following questions (for each tool):
+    - On a scale of 1 to 10, 1 being never heard of it, 10 being that you use it all the time; **How familiar are you with this tool?**
+    - On a scale of 1 to 10, 1 being not useful at all, 10 being extremely useful; **How useful is this tool to your workflow?**
+    - **Do you use an alternative tool instead of this tool for the purpose it provides? If so, what is that tool, and why do you use it?**
+* Discussion with organizers about tool usage:
+  + We recommend this being a separate call so that the conversations are able to have the time they need for solid discussion.
+  + Questions:
+    - **What are your current practices around data entry and measuring power/leadership development?** *What is hard about tracking and measuring your base? How is the organizing culture of the organization set up to support this rigor? How might it not be?*
+    - **Are you tracking your base in your database or at least on paper? What metrics or data points are you tracking about leadership?** *Are you propositioning people in powerful ways? Are you doing many 1:1s? And are you tracking this data somewhere? Are you tracking too much or too little?*
+    - **What is your current user rate for your tool stack and culture of practice to use these tools?**
+      * *What currently does and does not work with your current tool stack?*
+      * *What is the level of usage of the tools for your base building/organizing?*
+      * *What is getting in the way? (time, training, accountability etc)*
+
+
+
+

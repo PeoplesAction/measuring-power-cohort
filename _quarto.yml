@@ -16,6 +16,7 @@ book:
     - resources.qmd
     - welcome_and_overview.qmd
     - current_data_practices.qmd
+    - useful_to_track.qmd
 
 format:
   html:

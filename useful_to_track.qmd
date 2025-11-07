@@ -29,29 +29,7 @@ If you would like to make a copy you can find the slides [here](https://docs.goo
 
 ## Takeaway {.unnumbered}
 
-* Steps 1, 2a and 2b of the [Data Map Visualization for Basebuilding and Leadership Development Metrics](https://www.canva.com/design/DAGOguXd_S4/lkyv0tTpoQxJYQ-ngplm9A/edit){.external target="_blank"}
-* [Tech Stack Mapping](https://www.canva.com/design/DAGxWitsSiQ/z2GITCy5OGNM9rgG8GfzhQ/edit?utm_content=DAGxWitsSiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton){.external target="_blank"}
-* Survey of the tools:
-  + Have your staff take a survey of all the tools that have been identified
-  + Have them self identify the role that they use the tool from:
-    - Organizers / Staff
-    - Leaders
-    - Managers
-    - Admin
-  + Then have people answer the following questions (for each tool):
-    - On a scale of 1 to 10, 1 being never heard of it, 10 being that you use it all the time; **How familiar are you with this tool?**
-    - On a scale of 1 to 10, 1 being not useful at all, 10 being extremely useful; **How useful is this tool to your workflow?**
-    - **Do you use an alternative tool instead of this tool for the purpose it provides? If so, what is that tool, and why do you use it?**
-* Discussion with organizers about tool usage:
-  + We recommend this being a separate call so that the conversations are able to have the time they need for solid discussion.
-  + Questions:
-    - **What are your current practices around data entry and measuring power/leadership development?** *What is hard about tracking and measuring your base? How is the organizing culture of the organization set up to support this rigor? How might it not be?*
-    - **Are you tracking your base in your database or at least on paper? What metrics or data points are you tracking about leadership?** *Are you propositioning people in powerful ways? Are you doing many 1:1s? And are you tracking this data somewhere? Are you tracking too much or too little?*
-    - **What is your current user rate for your tool stack and culture of practice to use these tools?**
-      * *What currently does and does not work with your current tool stack?*
-      * *What is the level of usage of the tools for your base building/organizing?*
-      * *What is getting in the way? (time, training, accountability etc)*
+* Make a copy of and complete the [Leadership Ladder Workbook](https://docs.google.com/document/d/1N36lpjwQYqrMqBgi9v1hCxhPSCiO6fQ6ulx7eTv34fA/edit?tab=t.0#heading=h.hkkipb5h5knp){.external target="_blank"}
 
-
-
+* Make a copy of and complete the [Tagging Workbook](https://docs.google.com/document/d/1BSxzhAPJlOKXkicDYTTFtE71FKYbJ4IL-FmbAhPM74w/edit?usp=sharing){.external target="_blank"}
 
